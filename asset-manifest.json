@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Quotes-generator/static/css/main.7cb560b8.css",
+    "main.js": "/Quotes-generator/static/js/main.9d6aee66.js",
+    "static/media/quotes.jpg": "/Quotes-generator/static/media/quotes.c839b1fc71a5993808a2.jpg",
+    "index.html": "/Quotes-generator/index.html",
+    "main.7cb560b8.css.map": "/Quotes-generator/static/css/main.7cb560b8.css.map",
+    "main.9d6aee66.js.map": "/Quotes-generator/static/js/main.9d6aee66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cb560b8.css",
+    "static/js/main.9d6aee66.js"
+  ]
+}
