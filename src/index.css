@@ -1,10 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Bebas+Neue&family=Dhurjati&family=Oswald:wght@400;700&family=Poppins:wght@400;500;600;800&family=Satisfy&display=swap');
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  
+   
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
+  background-image: url('./components/quotes.jpg');
+  color: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
 }
 
 code {
